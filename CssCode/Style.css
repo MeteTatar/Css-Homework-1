@@ -1,0 +1,60 @@
+body
+{
+    background-color: #5e4b4b;
+}
+a
+{
+    color: rgb(49, 69, 217);
+    
+    margin: 8px;
+    text-decoration:none;
+    font-weight: bold;
+    font-size: 20px;
+}
+.mlinks
+{
+    margin-right: 300px;
+    color: brown;
+    font-weight:bold;
+    font-size: 30px;
+    border: 2px rgb(255, 255, 255) solid;
+    border-radius: 15px;
+}
+p
+{
+    color: rgb(230, 225, 227);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2
+{
+    color:rgb(255, 218, 56);
+    text-align: center;
+}
+img
+{
+    margin-left: 65px;
+    margin-bottom: 20px;
+    width: 300px;
+    height: 200px;
+}
+.listtanri
+{
+    color:rgb(56, 240, 176);
+}
+#hakkimizda
+{
+    text-align: center;
+}
+.tanribaslik
+{
+    color:rgb(255, 218, 56);
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.zeusimg
+{
+    width: 300px;
+    height: 350px;
+    margin-left: 52px;
+}
