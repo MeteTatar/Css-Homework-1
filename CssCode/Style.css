@@ -36,10 +36,16 @@ img
     margin-bottom: 20px;
     width: 300px;
     height: 200px;
+    margin-top:20px;
 }
 .listtanri
 {
     color:rgb(56, 240, 176);
+}
+.slisttanri
+{
+    color:rgb(56, 240, 176);
+    margin-left: 30cm;
 }
 #hakkimizda
 {
